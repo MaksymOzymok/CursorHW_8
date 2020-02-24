@@ -52,4 +52,4 @@ let d = new BudgetStudent(1,1,2);
 d.marks = 5;
 
 console.log('BudgetStudent:',d);
-console.log(d);
+
